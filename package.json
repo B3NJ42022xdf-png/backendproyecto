@@ -1,0 +1,19 @@
+
+{
+  "name": "backend-proyecto",
+  "version": "1.0.0",
+  "description": "Mi primera API con Express y Swagger",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
